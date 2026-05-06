@@ -1,7 +1,7 @@
 {
   "name": "sapcli-abap-tools",
   "description": "ABAP system exploration and analysis tools powered by sapcli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "Jakub Filak"
   },
