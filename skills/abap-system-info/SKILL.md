@@ -1,4 +1,5 @@
 ---
+name: abap-system-info
 description: Fetch and displays ABAP system information such as system ID, client, and user details.
 ---
 
