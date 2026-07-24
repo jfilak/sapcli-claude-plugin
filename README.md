@@ -15,7 +15,6 @@ Built on top of [sapcli](https://github.com/jfilak/sapcli) -- the command line i
 ### Skills
 
 - **abap-system-info** -- Fetches and displays ABAP system information such as system ID, client, and user details. Useful for troubleshooting and confirming connection details.
-- **abap-sql-query** -- Executes SQL queries against ABAP system to fetch and return structured data.
 - **abap-snippet** -- Executes ABAP code snippets for quick experiments, call of private APIs and complex data queries.
 
 ## Prerequisites
